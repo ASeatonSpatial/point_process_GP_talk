@@ -1,0 +1,10 @@
+base
+spatstat.data
+nlme
+rpart
+spatstat
+sp
+RandomFieldsUtils
+RandomFields
+ggplot2
+inlabru
